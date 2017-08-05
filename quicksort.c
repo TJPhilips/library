@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #define MAX 7
 
-int intArray[MAX] = {4,6,3,2,1,9,7,0};
+int intArray[MAX] = {4,6,3,2,1,7,0};
 //array does not start at 1...this is not lua whoops :D
 void printline(int count) {
    int i;
